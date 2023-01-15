@@ -1,2 +1,2 @@
-Hello my new repositary.
+Hello my new repositary!
 Okay Good!
